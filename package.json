@@ -1,0 +1,33 @@
+{
+  "name": "in-the-fog-theme",
+  "displayName": "In The Fog Theme",
+  "version": "0.1.0",
+  "description": "",
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ganevru/in-the-fog-theme"
+  },
+  "author": {
+    "name": "Ivan Ganev",
+    "email": "ganevio92@gmail.com"
+  },
+  "publisher": "ganevru",
+  "scripts": {
+    "pack": "vsce package"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "In The Fog Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/in-the-fog-dark.json"
+      }
+    ]
+  },
+  "engines": {
+    "vscode": "*"
+  }
+}
