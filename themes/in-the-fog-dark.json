@@ -44,6 +44,8 @@
     "editorWidget.background": "#282e2f",
     "extensionBadge.remoteBackground": "#687f7b70",
     "extensionBadge.remoteForeground": "#D7DAE0",
+    "dropdown.background": "#282e2f",
+    "dropdown.listBackground": "#282e2f",
     "focusBorder": "#24292b00",
     "foreground": "#cccccc",
     "gitDecoration.conflictingResourceForeground": "#db8a8fb2",
