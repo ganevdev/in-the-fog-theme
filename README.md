@@ -1,5 +1,7 @@
 # In The Fog - VS Code Theme
 
+![In The Fog - VS Code Theme](https://raw.githubusercontent.com/Ganevru/in-the-fog-theme/master/assets/screen.png)
+
 This is a dark, green and flat theme, focused primarily on web development. The main idea of this theme is to reduce the visibility of all the least important elements of the vs code interface so that it would be easier for you to focus on the code.
 
 Colors are mainly based on the [Slime Them](https://marketplace.visualstudio.com/items?itemName=smlombardi.slime).
