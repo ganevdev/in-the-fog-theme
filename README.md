@@ -10,8 +10,12 @@ Recommended Settings:
 
 ```json
 {
+  "workbench.colorTheme": "In The Fog Dark",
   "editor.fontFamily": "Fira Code, Roboto Mono, Menlo, Monaco, 'Courier New', monospace",
   "editor.fontLigatures": true,
-  "editor.fontSize": 18
+  "editor.fontSize": 18,
+  "editor.cursorBlinking": "solid",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.fontSize": 15,
 }
 ```
