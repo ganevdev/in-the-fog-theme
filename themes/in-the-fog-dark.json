@@ -117,7 +117,7 @@
     },
     {
       "name": "String",
-      "scope": "string, constant.other.symbol, entity.other.inherited-class, punctuation.definition.string, markup.underline.link.image.markdown, string.other.link, markup.raw.inline, markup.inserted, markup.inserted.git_gutter, string.other.link.title.markdown, variable.parameter.url.scss",
+      "scope": "string, constant.other.symbol, entity.other.inherited-class, punctuation.definition.string, string.other.link, markup.raw.inline, markup.inserted, markup.inserted.git_gutter, string.other.link.title.markdown, variable.parameter.url.scss",
       "settings": {
         "foreground": "#a9c37e"
       }
@@ -166,7 +166,7 @@
     },
     {
       "name": "Comment",
-      "scope": "comment, punctuation.definition.comment, punctuation.separator.key-value, punctuation.separator, meta.template.expression.js, punctuation.definition.template-expression.begin.js, punctuation.definition.template-expression.end.js, markup.underline.link.markdown, punctuation.definition.metadata.markdown",
+      "scope": "comment, punctuation.definition.comment, punctuation.separator.key-value, punctuation.separator, meta.template.expression.js, punctuation.definition.template-expression.begin.js, punctuation.definition.template-expression.end.js, markup.underline.link.markdown, punctuation.definition.metadata.markdown, markup.underline.link.image.markdown",
       "settings": {
         "foreground": "#777c85"
       }
