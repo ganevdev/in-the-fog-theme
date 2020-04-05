@@ -82,6 +82,7 @@
     "tab.activeBackground": "#24292a",
     "tab.border": "#24292b00",
     "tab.inactiveBackground": "#24292b",
+    "panelTitle.activeBorder":"#E2E2E200",
     "terminal.ansiBlack": "#666666",
     "terminal.ansiBlue": "#6D9CBE",
     "terminal.ansiBrightBlack": "#666666",
