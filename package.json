@@ -6,6 +6,7 @@
   "categories": [
     "Themes"
   ],
+  "homepage": "https://github.com/ganevru/in-the-fog-theme",
   "repository": {
     "type": "git",
     "url": "https://github.com/ganevru/in-the-fog-theme"
@@ -29,5 +30,10 @@
   },
   "engines": {
     "vscode": "*"
+  },
+  "icon": "assets/in-the-fog-logo.png",
+  "galleryBanner": {
+    "color": "#2a2c2d",
+    "theme": "dark"
   }
 }
