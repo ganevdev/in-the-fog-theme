@@ -105,7 +105,10 @@
     "titleBar.border": "#24292b00",
     "titleBar.inactiveBackground": "#24292b",
     "tree.indentGuidesStroke": "#58585828",
-    "widget.shadow": "#24292b00"
+    "widget.shadow": "#24292b00",
+    "editorGroup.border": "#24292b",
+    "sideBySideEditor.horizontalBorder": "#24292b",
+    "sideBySideEditor.verticalBorder": "#24292b"
   },
   "name": "In The Fog Dark",
   "tokenColors": [
