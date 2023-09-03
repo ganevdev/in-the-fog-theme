@@ -108,7 +108,9 @@
     "widget.shadow": "#24292b00",
     "editorGroup.border": "#24292b",
     "sideBySideEditor.horizontalBorder": "#24292b",
-    "sideBySideEditor.verticalBorder": "#24292b"
+    "sideBySideEditor.verticalBorder": "#24292b",
+    "statusBarItem.remoteBackground": "#24292b00",
+    "statusBarItem.prominentBackground": "#24292b00"
   },
   "name": "In The Fog Dark",
   "tokenColors": [
